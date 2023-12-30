@@ -1,1 +1,2 @@
-# MEMORY_QT_curse
+# QtMemoryGame
+also called pairs
