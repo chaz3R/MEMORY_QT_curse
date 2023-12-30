@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/DataBase">
+        <file>Players.db</file>
+    </qresource>
+</RCC>
